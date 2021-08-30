@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+
+<AnchorPane id="back" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="200.0" prefWidth="400.0" stylesheets="@EditDialog.css" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.view.HistoryEditDialogController">
+   <children>
+      <Label id="title" layoutX="118.0" layoutY="15.0" text="Add a new Event!" />
+      <GridPane layoutX="62.0" layoutY="70.0" maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="60.0" prefWidth="300.0">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="110.0" minWidth="110.0" prefWidth="110.0" />
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="250.0" minWidth="10.0" prefWidth="250.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <TextField fx:id="descField" maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="27.0" prefWidth="236.0" GridPane.columnIndex="1" />
+            <TextField fx:id="valField" prefWidth="148.0" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+            <Label prefHeight="23.0" prefWidth="102.0" text="Description:" />
+            <Label text="Value:" GridPane.rowIndex="1" />
+         </children>
+      </GridPane>
+      <Button defaultButton="true" layoutX="261.0" layoutY="158.0" mnemonicParsing="false" onAction="#handleOk" prefHeight="25.0" prefWidth="47.0" text="OK" />
+      <Button layoutX="317.0" layoutY="158.0" mnemonicParsing="false" onAction="#handleCancel" text="Cancel" />
+   </children>
+</AnchorPane>

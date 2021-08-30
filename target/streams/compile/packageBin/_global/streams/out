@@ -1,0 +1,115 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\finalassignment_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\MainApp$$anon$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\MainApp$$anon$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\MainApp$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\MainApp$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\MainApp$$anon$3$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\MainApp$$anon$3$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\MainApp$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\MainApp$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\MainApp$$anon$5$$anon$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\MainApp$$anon$5$$anon$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\MainApp$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\MainApp$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\MainApp$$anon$7$$anon$8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\MainApp$$anon$7$$anon$8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\MainApp$$anon$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\MainApp$$anon$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\MainApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\MainApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\MainApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\MainApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\MainApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\MainApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\model[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\model[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\model\Account$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\model\Account$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\model\Account$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\model\Account$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\model\Account.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\model\Account.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\model\History$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\model\History$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\model\History$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\model\History$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\model\History.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\model\History.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\model\Person$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\model\Person$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\model\Person$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\model\Person$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\model\Person.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\model\Person.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\util[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\util[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\util\Database$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\util\Database$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\util\Database.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\util\Database.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\view[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\view[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\view\AccountEditDialog.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\view\AccountEditDialog.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\view\AccountEditDialogController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\view\AccountEditDialogController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\view\AccountEditDialogController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\view\AccountEditDialogController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\view\AccountEditDialogController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\view\AccountEditDialogController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\view\EditDialog.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\view\EditDialog.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\view\HistoryEditDialog.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\view\HistoryEditDialog.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\view\HistoryEditDialogController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\view\HistoryEditDialogController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\view\HistoryEditDialogController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\view\HistoryEditDialogController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\view\HistoryEditDialogController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\view\HistoryEditDialogController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\view\PersonEditDialog.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\view\PersonEditDialog.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\view\PersonEditDialogController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\view\PersonEditDialogController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\view\PersonEditDialogController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\view\PersonEditDialogController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\view\PersonEditDialogController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\view\PersonEditDialogController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\view\PersonOverview.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\view\PersonOverview.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\view\PersonOverview.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\view\PersonOverview.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\view\PersonOverviewController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\view\PersonOverviewController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\view\PersonOverviewController$Controller$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\view\PersonOverviewController$Controller$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\view\PersonOverviewController$Controller$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\view\PersonOverviewController$Controller$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\view\PersonOverviewController$Controller$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\view\PersonOverviewController$Controller$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\view\PersonOverviewController$Controller$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\view\PersonOverviewController$Controller$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\view\PersonOverviewController$Controller$$anon$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\view\PersonOverviewController$Controller$$anon$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\view\PersonOverviewController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\view\PersonOverviewController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\view\PersonOverviewController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\view\PersonOverviewController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\view\RootLayout.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\view\RootLayout.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\view\RootLayout.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\view\RootLayout.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\view\RootLayoutController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\view\RootLayoutController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\view\RootLayoutController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\view\RootLayoutController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\view\RootLayoutController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\app\view\RootLayoutController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	view[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\target\scala-2.12\classes\view[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

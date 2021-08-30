@@ -1,0 +1,121 @@
+.background {
+    -fx-background-color: #1d1d1d;
+}
+
+#backleft {
+    -fx-background-color:#99958d;
+}
+
+#backright {
+    -fx-background-color: #66635c;
+}
+
+.label {
+    -fx-text-fill: white;
+    -fx-font-family: "Calibri Light"
+}
+
+.table-view {
+    -fx-background-color: #dddddd;
+    -fx-font-family: "Tahoma";
+    -fx-font-weight: bold;
+}
+
+.table-view .column-header {
+    -fx-background-color: #4a4a4a;  
+}
+
+.table-view .column-header .label{
+    -fx-font-size: 10pt;
+    -fx-font-family: "Calibri";
+}
+
+.table-row-cell:odd {
+    -fx-background-color: -fx-table-cell-border-color, #fcfcfc;
+    -fx-background-insets: 0, 0 0 1 0;
+}
+
+.table-row-cell:selected {
+    -fx-background-color: #6b6b6b;
+    -fx-text-background-color: #ffffff;
+    -fx-text-fill: #d4cfcf;
+}
+
+.button {
+    -fx-padding: 5px;
+    -fx-font-family: "Segoe UI";
+    -fx-font-weight: bold;
+    -fx-background-radius: 20px;
+    -fx-background-insets: 0;
+    -fx-effect: dropshadow( gaussian , rgba(0,0,0,0.5) , 0,2,2,2);
+    -fx-border-radius: 20px;
+    -fx-border-width: 2px;
+    -fx-border-color: rgb(112, 93, 77);
+    -fx-text-fill: rgb(107, 100, 100);
+    -fx-background-color: #f3f0f1;
+}
+
+.button:hover {
+    -fx-opacity: 0.7;
+}
+
+.button:pressed {
+    -fx-effect: innershadow( gaussian , rgba(71, 69, 69, 0.7) , 20,0,0,0 );
+}
+
+#titleMain {
+    -fx-font-family: "Lucida Console";
+    -fx-text-fill: rgb(209, 209, 209);
+}
+
+#title {
+    -fx-font-family: "Century Gothic";
+    -fx-effect: dropshadow( gaussian , rgba(0,0,0,0.5) , 0,2,2,2);
+}
+
+#xButton {
+    -fx-text-fill: white;
+    -fx-background-color: linear-gradient(#ff6315, #bb2f16);
+    -fx-border-radius: 20px;
+    -fx-border-width: 2px;
+    -fx-border-color: #b43030;
+    
+}
+
+#expBtn {
+    -fx-text-fill: white;
+    -fx-background-color: linear-gradient(#ff6315, #ce2f13);
+    -fx-border-radius: 20px;
+    -fx-border-width: 2px;
+    -fx-border-color: #af3838;
+}
+
+#incBtn {
+    -fx-text-fill: white;
+    -fx-background-color: linear-gradient(#5cfd77, #0a8812);
+    -fx-border-radius: 20px;
+    -fx-border-width: 2px;
+    -fx-border-color: #036d2f;
+}
+
+#undoBtn {
+    -fx-background-radius: 5px;
+    -fx-text-fill: white;
+    -fx-background-color: linear-gradient(#7dd2fa, #2552b3);
+    -fx-border-radius: 5px;
+    -fx-border-width: 2px;
+    -fx-border-color: #385cff;
+}
+
+#balancetitle {
+    -fx-font-family: "fantasy";
+    -fx-font-size: 12pt;
+    -fx-font-weight: bold;
+    -fx-effect: dropshadow( gaussian , rgba(0,0,0,0.5) , 0,2,2,2);
+}
+
+#balance {
+    -fx-text-fill: rgb(104, 219, 104);
+    -fx-font-family: "Arial";
+    -fx-effect: dropshadow( gaussian , rgba(0,0,0,0.5) , 0,2,2,2);
+}

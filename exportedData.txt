@@ -1,0 +1,85 @@
+PERSON
+Name                Age                 Occupation          
+------------------------------------------------------------------
+Adrian               20                   Student             
+
+
+		ACCOUNT
+		Name                Balance             
+		----------------------------------------------------------
+		Savings1             3455.79             
+
+
+				HISTORY
+				Type                Description         Value               
+				--------------------------------------------------
+				Expenses             Food                 - 20.0              
+				Expenses             Medical              - 1550.55           
+
+
+		ACCOUNT
+		Name                Balance             
+		----------------------------------------------------------
+		Savings2             1034.25             
+
+
+				HISTORY
+				Type                Description         Value               
+				--------------------------------------------------
+
+
+		ACCOUNT
+		Name                Balance             
+		----------------------------------------------------------
+		Checking             7459.15             
+
+
+				HISTORY
+				Type                Description         Value               
+				--------------------------------------------------
+
+
+
+
+
+PERSON
+Name                Age                 Occupation          
+------------------------------------------------------------------
+Jack                 20                   Hi                  
+
+
+		ACCOUNT
+		Name                Balance             
+		----------------------------------------------------------
+		Jacc1                3650.0              
+
+
+				HISTORY
+				Type                Description         Value               
+				--------------------------------------------------
+
+
+		ACCOUNT
+		Name                Balance             
+		----------------------------------------------------------
+		Jacc2                1100.0              
+
+
+				HISTORY
+				Type                Description         Value               
+				--------------------------------------------------
+				Income               Oops                 + 1000.0            
+
+
+
+
+
+PERSON
+Name                Age                 Occupation          
+------------------------------------------------------------------
+EmptyUser            21                   Clerk               
+
+
+
+
+

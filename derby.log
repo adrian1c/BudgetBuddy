@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Aug 30 08:26:35 SGT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017b-9473-61ed-000005dc6398 
+on database directory D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy\budgetApp with class loader sun.misc.Launcher$AppClassLoader@4e25154f 
+Loaded from file:/C:/Users/Adrian/AppData/Local/Temp/sbt_489600b2/target/d8304ed5/0b708d5e/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_301-b09
+user.dir=D:\Studies\Uni Sem 4\OOP\Project_18063685\Budget Buddy
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

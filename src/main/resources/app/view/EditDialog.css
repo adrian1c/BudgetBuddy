@@ -1,0 +1,42 @@
+.button {
+    -fx-padding: 5px;
+    -fx-font-family: "Segoe UI";
+    -fx-font-weight: bold;
+    -fx-background-radius: 10px;
+    -fx-background-insets: 0,1,4,5,6;
+    -fx-effect: dropshadow( gaussian , rgba(0,0,0,0.5) , 0,2,2,2);
+    -fx-text-fill: rgb(107, 100, 100);
+    -fx-background-color: #f3f0f1;
+}
+
+.button:hover {
+    -fx-opacity: 0.7;
+}
+
+.button:pressed {
+    -fx-effect: innershadow( gaussian , rgba(71, 69, 69, 0.7) , 20,0,0,0 );
+}
+
+#back {
+    -fx-background-color: #9e9084;
+}
+
+.label {
+    -fx-text-fill: white;
+    -fx-font-family: "Calibri";
+    -fx-effect: dropshadow( gaussian , rgba(0,0,0,0.5) , 0,2,2,2);
+    -fx-font-size: 15pt;
+}
+
+#title {
+    -fx-font-family: "Segoe UI";
+    -fx-font-weight: bold;
+    -fx-font-size: 15pt;
+}
+
+.text-field {
+    -fx-background-radius: 50px;
+    -fx-effect: innershadow( gaussian , rgba(71, 69, 69, 0.5) , 15,0,0,0 );
+    -fx-padding: 5px;
+    -fx-padding-left: 10px;
+}
